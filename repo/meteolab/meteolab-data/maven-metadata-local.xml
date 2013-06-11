@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>meteolab</groupId>
+  <artifactId>meteolab-data</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120409224918</lastUpdated>
+  </versioning>
+</metadata>

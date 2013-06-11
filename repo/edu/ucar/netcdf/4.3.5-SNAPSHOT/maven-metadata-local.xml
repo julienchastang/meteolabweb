@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>edu.ucar</groupId>
+  <artifactId>netcdf</artifactId>
+  <version>4.3.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20120327184529</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.3.5-SNAPSHOT</value>
+        <updated>20120327184529</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.5-SNAPSHOT</value>
+        <updated>20120327184529</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

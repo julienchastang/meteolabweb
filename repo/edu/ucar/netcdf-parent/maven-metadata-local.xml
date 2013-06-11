@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.ucar</groupId>
+  <artifactId>netcdf-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>4.3.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120327192305</lastUpdated>
+  </versioning>
+</metadata>
